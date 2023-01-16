@@ -1,8 +1,9 @@
 
-Hi this project is to test the heroku app using Webdriver IO using mocha js.
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Hi this project is to test the heroku app using Webdriver IO using mocha js.
 
 # herokuapp
 
