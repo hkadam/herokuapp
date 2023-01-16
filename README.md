@@ -1,2 +1,2 @@
 # herokuapp
-Test the app using Webdriver
+Hi this project is to test the heroku app using Webdriver IO
